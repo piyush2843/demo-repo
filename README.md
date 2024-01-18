@@ -1,2 +1,2 @@
 # demo-repo
-demo for git and github 
+demo for git and github.
